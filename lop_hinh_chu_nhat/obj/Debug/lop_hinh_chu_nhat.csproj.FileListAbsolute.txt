@@ -1,0 +1,7 @@
+D:\luu tru vao day\lung tung\chua c#\lop_hinh_chu_nhat\lop_hinh_chu_nhat\obj\Debug\lop_hinh_chu_nhat.csproj.AssemblyReference.cache
+D:\luu tru vao day\lung tung\chua c#\lop_hinh_chu_nhat\lop_hinh_chu_nhat\obj\Debug\lop_hinh_chu_nhat.csproj.CoreCompileInputs.cache
+D:\luu tru vao day\lung tung\chua c#\lop_hinh_chu_nhat\lop_hinh_chu_nhat\bin\Debug\lop_hinh_chu_nhat.exe.config
+D:\luu tru vao day\lung tung\chua c#\lop_hinh_chu_nhat\lop_hinh_chu_nhat\bin\Debug\lop_hinh_chu_nhat.exe
+D:\luu tru vao day\lung tung\chua c#\lop_hinh_chu_nhat\lop_hinh_chu_nhat\bin\Debug\lop_hinh_chu_nhat.pdb
+D:\luu tru vao day\lung tung\chua c#\lop_hinh_chu_nhat\lop_hinh_chu_nhat\obj\Debug\lop_hinh_chu_nhat.exe
+D:\luu tru vao day\lung tung\chua c#\lop_hinh_chu_nhat\lop_hinh_chu_nhat\obj\Debug\lop_hinh_chu_nhat.pdb
